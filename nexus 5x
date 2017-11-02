@@ -1,0 +1,4 @@
+11-02 21:01:20.396 15527-15757/com.example.android.camera2raw I/AlignaNative: glfft/s = 1.182508
+11-02 21:01:21.624 15527-15757/com.example.android.camera2raw I/AlignaNative: tfft/s = 1.049513
+11-02 21:06:52.115 15527-20632/com.example.android.camera2raw I/AlignaNative: glfft/s = 0.874269
+11-02 21:06:53.237 15527-20632/com.example.android.camera2raw I/AlignaNative: tfft/s = 0.917924
